@@ -1,2 +1,2 @@
 # earlyjava1
-trying to reclone this
+This is an early java project using Swing components. 
